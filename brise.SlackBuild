@@ -94,7 +94,7 @@ rm -rf $PRGNAM-$VERSION
 
 if [ ! -f $CWD/$PRGNAM-$VERSION.tar.gz ]; then
     echo 'source code not found.'
-    echo 'run `wget https://github.com/rime/librime/archive/rime-1.2.9.tar.gz` download it.'
+    echo 'run `wget https://github.com/rime/brise/archive/brise-0.35.tar.gz` download it.'
 fi
 
 tar xvf $CWD/$PRGNAM-$VERSION.tar.gz

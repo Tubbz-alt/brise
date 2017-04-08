@@ -13,7 +13,7 @@ A Rime input schema, which defines a specific input method in Rime's DSL, consis
 ## usage
 
 ```
-wget https://github.com/rime/librime/archive/rime-1.2.9.tar.gz
+wget https://github.com/rime/brise/archive/brise-0.35.tar.gz
 git clone https://github.com/slackwarecn/brise-slackbuild
 cd brise-slackbuild
 ln -s ../brise-0.35.tar.gz .
